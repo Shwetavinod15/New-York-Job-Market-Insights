@@ -11,7 +11,7 @@ This project focuses on designing and building a **Data Mart** to analyze job ma
 ## 📁 Project Structure
 
 ```bash
-├── CreateTableQueries.sql           # DDL script to create staging and fact/dimension tables
+├── CreateTableQueries.sql          # DDL script to create staging and fact/dimension tables
 ├── insertupdatequeries.sql         # ETL SQL code to load data into the Data Mart
 ├── BusinessQuestions.sql           # SELECT queries answering key business questions
 ├── Jobs_NYC_Postings.csv           # Raw dataset used in the project
@@ -91,7 +91,7 @@ ETL was performed using **Method 2 (SQL-based ETL with Python scripting)**:
 
 1. **Create the database** in Microsoft SQL Server.
 2. Run the `CreateTableQueries.sql` to generate all required tables.
-3. Use the ETL script from `insertupdatequeries.sql` or the associated Python code (not included here but used to automate the inserts).
+3. Use the ETL script from `insertupdatequeries.sql`.
 4. Load data from `Jobs_NYC_Postings.csv` into staging tables.
 5. Run `BusinessQuestions.sql` to answer the predefined business questions.
 6. Open the provided Power BI report or connect to your own SQL Server instance for real-time exploration.
@@ -118,6 +118,3 @@ ETL was performed using **Method 2 (SQL-based ETL with Python scripting)**:
 
 
 ---
-
-
-> Made with ❤️ for data-driven hiring decisions.
