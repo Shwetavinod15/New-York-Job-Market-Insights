@@ -4,7 +4,7 @@
 
 This project focuses on designing and building a **Data Mart** to analyze job market trends from NYC job postings data. Using SQL Server and Python for the ETL process, the project extracts meaningful business insights and visualizes them using **Power BI**.
 
-🔗 **Power BI Report**: [View Live Dashboard](https://app.powerbi.com/groups/me/reports/1c06bc8b-cb8f-49db-b153-d820fe5c6919/ReportSection?experience=power-bi)
+🔗 **Power BI Report**: <a href="https://app.powerbi.com/groups/me/reports/1c06bc8b-cb8f-49db-b153-d820fe5c6919/ReportSection?experience=power-bi" target="_blank">View Live Dashboard</a>
 
 ---
 
