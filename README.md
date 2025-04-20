@@ -112,17 +112,12 @@ ETL was performed using **Method 2 (SQL-based ETL with Python scripting)**:
 ![Final ERD](Final_ERD.png)
 
 ### 📌 Power BI Dashboard
-![Power BI Dashboard](dashboard_screenshot.png)
+![Power BI Dashboard](Dashboard.png)
 
 > These visuals provide structural context of the data mart and key insights through interactive charts.
 
 
 ---
 
-## 📬 Contact
-
-For questions or collaboration inquiries, feel free to reach out via [LinkedIn](#) or open an issue in the repository.
-
----
 
 > Made with ❤️ for data-driven hiring decisions.
